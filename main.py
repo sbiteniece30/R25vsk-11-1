@@ -1,3 +1,7 @@
-print("Adrians R25vsk-11-1")
-print("Gabriela Bekasova")
-print("Sanda Biteniece")
+print("Čeks Maksima")
+
+print("")
+print("Īpašības:")
+
+print("")
+print("Metodes:")
