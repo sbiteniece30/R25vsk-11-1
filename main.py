@@ -1,7 +1,9 @@
 print("Čeks Maksima")
 
 print("")
-print("Īpašības:")
+print("  Īpašības:")
+print("  ")
 
 print("")
-print("Metodes:")
+print("  Metodes:")
+print("  ")
