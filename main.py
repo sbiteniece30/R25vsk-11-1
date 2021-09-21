@@ -2,7 +2,7 @@ print("Čeks Maksima")
 
 print("")
 print("  Īpašības:")
-print("  ")
+print("  āboli")
 
 print("")
 print("  Metodes:")
